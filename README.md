@@ -1,12 +1,6 @@
 👋 Hi, I’m @fahu
 
-- 🐶 I'm working on Web, eCommerce & Internal Systems at @Tractive. 
-- 💉 I'm the Co-Creator of https://digitaler-impfpass.at
-- 🏔 I'm a mountain climber
-- 🥊 I'm a thaiboxer
-- 📸 I'm a hobby photographer
-- 🚑 I'm a voluntary paramedic
-
+I'm building Digitaler Impfpass & a few other things. Previously Tractive & Microsoft.
 
 
 <!---
